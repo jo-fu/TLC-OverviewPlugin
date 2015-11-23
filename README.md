@@ -1,5 +1,5 @@
 # TLC-OverviewPlugin
-Modified version of TLC to use inside Overview (overview-project.org)
+Modified version of [TimeLineCurator](http://about.timelinecurator.org) to use inside [Overview](http://overview-project.org)
 
 ## Instructions for using it as Custom View inside Overview
 - Download repo
