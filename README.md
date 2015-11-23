@@ -5,5 +5,5 @@ Modified version of TLC to use inside Overview (overview-project.org)
 - Download repo
 - Run app.py to launch it on local server - Python 2.7
   - Mac: cd to directory. `$ python app.py`
-- Inside Overview: "Add View" --> "Custom"
+- Inside your [local Overview](https://github.com/overview/overview-local): "Add View" --> "Custom"
 - Enter URL of the local environment (probably http://127.0.0.1:5000)
